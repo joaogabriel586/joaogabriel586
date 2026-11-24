@@ -1,28 +1,21 @@
-# Olá, eu sou o João Gabriel 👋
+## Olá, eu sou João Gabriel
 
-Estudante de **Inteligência Artificial** na **UniEVANGÉLICA** e **Desenvolvedor Backend** em formação, com foco na construção de APIs REST, modelagem de bancos de dados e integração com Inteligência Artificial.
+Estudo Inteligência Artificial na UniEVANGÉLICA, em Goiás. No dia a dia programo principalmente em Python, montando APIs, modelando banco de dados e testando ideias ligadas a IA e automação.
 
----
+### O que uso com mais frequência
 
-### 🚀 Tecnologias e Ferramentas
+- Backend: Python, FastAPI, Flask, Django e Java
+- Banco de dados: SQL, SQLite, PostgreSQL (Supabase) e MongoDB
+- Outros: Git, GitHub, APIs REST, HTML/CSS/JS, integração com LLMs (Groq) e n8n
 
-- **Backend & Linguagens:** Python, FastAPI, Flask, Django, Java, HTML5, CSS3, JavaScript
-- **Bancos de Dados & Modelagem:** SQL, SQLite, PostgreSQL (Supabase), MongoDB, Modelagem de Dados
-- **Inteligência Artificial:** Integração com LLMs (Groq), automação e processamento de texto
-- **Boas Práticas & Ferramentas:** Git, GitHub, Pydantic, Arquitetura em Camadas, REST APIs
+### Alguns projetos
 
----
+- **[Livraria-api](https://github.com/joaogabriel586/Livraria-api)**: API de cadastro e controle de livros feita com FastAPI, Pydantic e uma interface web simples em HTML, CSS e JS.
+- **[Pizzaria](https://github.com/joaogabriel586/Pizzaria)**: sistema de pedidos de pizzaria em FastAPI e SQLite, com cardápio, cadastro de clientes, controle de status e tela web.
+- **[english-vocab-assistant](https://github.com/joaogabriel586/english-vocab-assistant)**: script em Python que lê legendas do YouTube e salva o vocabulário em um banco SQLite dividido em 3 tabelas relacionadas.
+- **Bessa (repositório privado)**: sistema de gestão ambiental feito para um cliente real usando TypeScript e Supabase.
+- **Study OS (repositório privado)**: projeto pessoal de organização de estudos feito com Python, FastAPI, Supabase e API da Groq.
 
-### 📂 Projetos em Destaque
+### Contato
 
-- **[Livraria API](https://github.com/joaogabriel586/Livraria-api)** — API REST para gerenciamento de livros com **FastAPI**, **Pydantic** e estrutura modular (`routers`, `schemas`, `database`), integrada a um frontend em HTML/CSS/JS.
-- **[Pizzaria API](https://github.com/joaogabriel586/Pizzaria)** — Sistema de pedidos com **FastAPI**, validação de payloads com **Pydantic**, persistência em **SQLite** (consultas parametrizadas) e interface web estática.
-- **[English Vocab Assistant](https://github.com/joaogabriel586/english-vocab-assistant)** — Aplicação em **Python** para extração e análise de vocabulário a partir de legendas do YouTube, com banco relacional em **SQLite** (`videos`, `palavras`, `aparicoes`).
-
-> 🔒 **Projetos privados em destaque:** **Bessa (Sistema de Gestão Ambiental)** — sistema desenvolvido para cliente real com modelagem relacional e Supabase/PostgreSQL; **StudyOS** — sistema adaptativo de estudos com FastAPI, Supabase/PostgreSQL e Groq AI.
-
----
-
-### 📫 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-7b3b19429/)
+- LinkedIn: [João Gabriel](https://www.linkedin.com/in/jo%C3%A3o-gabriel-7b3b19429/)
